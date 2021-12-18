@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 💬 Ask me about **Java, C# and Swift**
+- 💬 Ask me about **Java, Kotlin, JavaScript, C# and Swift**
 
 - ⚡ Fun fact **I think i'm not funny :)**
 
